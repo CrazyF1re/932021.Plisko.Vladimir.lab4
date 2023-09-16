@@ -145,7 +145,7 @@ footer
 @media (max-width:700px) {
     .vertical_menu{
         width: 400px;
-        margin-left:calc((100% - 430px) / 2);
+        margin-left:calc((100% - 400px) / 2);
     }
     .vertical_menu a {
         float:left;
