@@ -92,6 +92,9 @@ img{
     width:150px;
     margin-left: 100px;
 }
+.right-column-div{
+    position: fixed; width:150px
+}
 .along-right-column{
     background-color: #e1e5eb;
     border-radius: 5px;
